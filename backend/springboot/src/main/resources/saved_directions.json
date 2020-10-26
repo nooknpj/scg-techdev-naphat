@@ -1,0 +1,112 @@
+{
+  "routes": [
+    {
+      "summary": "เทอดดำริห์ และ ถนน สวรรคโลก",
+      "copyrights": "Map data ©2020 Google",
+      "legs": [
+        {
+          "duration": { "text": "14 นาที", "value": 821 },
+          "start_location": { "lng": 100.5390916, "lat": 13.8030411 },
+          "distance": { "text": "5.6 กม.", "value": 5552 },
+          "start_address": "1 Siam Cement Road Bangsue Bangkok, แขวง บางซื่อ เขตบางซื่อ กรุงเทพมหานคร 10900 ประเทศไทย",
+          "end_location": { "lng": 100.5184498, "lat": 13.7657892 },
+          "end_address": "605, ถนนศรีอยุธยา, แขวงสวนจิตรลดา เขตดุสิต กรุงเทพมหานคร, 10300 แขวง สวนจิตรลดา เขตดุสิต กรุงเทพมหานคร 10300 ประเทศไทย",
+          "via_waypoint": [],
+          "steps": [
+            {
+              "duration": { "text": "1 นาที", "value": 2 },
+              "start_location": { "lng": 100.5390916, "lat": 13.8030411 },
+              "distance": { "text": "11 ม.", "value": 11 },
+              "travel_mode": "DRIVING",
+              "html_instructions": "มุ่งหน้าทาง<b>ตะวันออกเฉียงใต้</b> ไปตาม<b>ซอย ปูนซีเมนต์ไทย</b> เข้าสู่<b>ถนน เทอดดำริห์</b>/<wbr/><b>เทอดดำริห์</b>",
+              "end_location": { "lng": 100.5391763, "lat": 13.8029809 },
+              "polyline": { "points": "_|fsAipsdRFMBC" }
+            },
+            {
+              "duration": { "text": "7 นาที", "value": 394 },
+              "start_location": { "lng": 100.5391763, "lat": 13.8029809 },
+              "distance": { "text": "3.2 กม.", "value": 3213 },
+              "travel_mode": "DRIVING",
+              "html_instructions": "<b>ซอย ปูนซีเมนต์ไทย</b> เบี่ยง<b>ขวา</b>เล็กน้อย จะเข้าสู่ <b>ถนน เทอดดำริห์</b>/<wbr/><b>เทอดดำริห์</b><div style=\"font-size:0.9em\">วิ่งต่อไปตามเส้นทาง เทอดดำริห์</div><div style=\"font-size:0.9em\">ผ่าน La Cantine (อีก 1.9&nbsp;กม. ทางขวา)</div>",
+              "end_location": { "lng": 100.5284465, "lat": 13.776158 },
+              "polyline": {
+                "points": "s{fsA{psdR@ABABAFAB?B?B?B@D?@@F@PFjBf@jF~AZH\\L`IzBbAZ`@JdCr@j@TNF@?LFbA^`@XVPb@TdBl@fCt@vCdAzAf@jCx@|A`@xAXXA`@LJD`@RJFLHZLVJv@RPHRHXHTDj@Lr@RhDfAvBp@pErAv@RB@^JD@`AXxAd@JD|@VzBn@`EpA~DpA^J^Jj@Nj@Np@NVFVFB@|A`@rA^NBNDVHf@NXHRFBBRFPF~@ZxAf@j@^fA\\P@H@B@N?l@B\\BJ@l@PnA^\\Jz@VbCx@PBPBl@Pn@TLDHBF@"
+              }
+            },
+            {
+              "duration": { "text": "4 นาที", "value": 242 },
+              "start_location": { "lng": 100.5284465, "lat": 13.776158 },
+              "distance": { "text": "1.6 กม.", "value": 1572 },
+              "travel_mode": "DRIVING",
+              "html_instructions": "ขับต่อไปยัง <b>ถนน สวรรคโลก</b>",
+              "end_location": { "lng": 100.5229778, "lat": 13.7630783 },
+              "polyline": {
+                "points": "_tasAymqdRPHPHHDHBPJTPFBDDHF@?DBZJbA\\RFZHNF@?PDRH\\Jb@Lb@Nd@Nd@NRHVNXHXJNDd@NJD^J~@VPFjA\\vAb@D@~@Zd@NJBDBJBJDPDNDFBF@NDRFD@RFjCv@lCv@|Bp@dXbI|C|@b@L"
+              }
+            },
+            {
+              "duration": { "text": "1 นาที", "value": 39 },
+              "start_location": { "lng": 100.5229778, "lat": 13.7630783 },
+              "distance": { "text": "0.2 กม.", "value": 206 },
+              "travel_mode": "DRIVING",
+              "html_instructions": "เลี้ยว<b>ขวา</b> เข้าสู่ <b>ถ. ศรีอยุธยา</b>",
+              "end_location": { "lng": 100.5213269, "lat": 13.7636502 },
+              "maneuver": "turn-right",
+              "polyline": { "points": "gb_sAskpdRZJK`@Y~@_@jAc@jAc@bA" }
+            },
+            {
+              "duration": { "text": "1 นาที", "value": 33 },
+              "start_location": { "lng": 100.5213269, "lat": 13.7636502 },
+              "distance": { "text": "45 ม.", "value": 45 },
+              "travel_mode": "DRIVING",
+              "html_instructions": "เลี้ยว<b>ขวา</b><div style=\"font-size:0.9em\">ถนนที่จำกัดการใช้งาน</div>",
+              "end_location": { "lng": 100.5215043, "lat": 13.7640123 },
+              "maneuver": "turn-right",
+              "polyline": { "points": "ye_sAiapdRKEKE]KAACAEAAACA" }
+            },
+            {
+              "duration": { "text": "2 นาที", "value": 111 },
+              "start_location": { "lng": 100.5215043, "lat": 13.7640123 },
+              "distance": { "text": "0.5 กม.", "value": 505 },
+              "travel_mode": "DRIVING",
+              "html_instructions": "เลี้ยว<b>ซ้าย</b><div style=\"font-size:0.9em\">ถนนที่จำกัดการใช้งาน</div>",
+              "end_location": { "lng": 100.5184498, "lat": 13.7657892 },
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ah_sAkbpdRYBO?MACAGCEAICGCECCCAAAACIKSEGAAAAA?AAC?A@E@IBA@EBC@A@A@ADAD?F@P@NJvABVBd@?Z?N?LAD?BABA@A@CBEBE@A@A@E@CBGF[x@Wp@Sp@s@vB_@hA"
+              }
+            }
+          ],
+          "traffic_speed_entry": []
+        }
+      ],
+      "warnings": [],
+      "bounds": {
+        "southwest": { "lng": 100.5184498, "lat": 13.7629365 },
+        "northeast": { "lng": 100.5392201, "lat": 13.8030411 }
+      },
+      "overview_polyline": {
+        "points": "_|fsAipsdRPURCtCt@fRrFdBf@pDhAbBn@x@j@hCbAfCt@vCdAfF`BvDz@XA`@Ll@XXP|Bv@l@R`ARfP`F`Bb@dF|A|O~EhDz@|GfBxGxBj@^fA\\ZB~AHfD~@~DpAb@FtBp@t@ZpAv@fErAjCx@x@Xp@XzAf@|DhAlFbBnBh@|d@dN`EjAZJK`@y@jCgAnCw@YOGYB]A[KSMWg@GEUFMHCFALRpCB~AEN_@Tc@`Ak@bBsA`E"
+      },
+      "waypoint_order": []
+    }
+  ],
+  "request": {
+    "origin": { "location": { "lng": 100.5390045, "lat": 13.8029598 } },
+    "destination": { "location": { "lng": 100.5371464, "lat": 13.7466304 } },
+    "travelMode": "DRIVING"
+  },
+  "geocoded_waypoints": [
+    {
+      "types": ["establishment", "point_of_interest"],
+      "geocoder_status": "OK",
+      "place_id": "ChIJJ5XrzHKc4jARt3apfpfd4fM"
+    },
+    {
+      "types": ["establishment", "point_of_interest"],
+      "geocoder_status": "OK",
+      "place_id": "ChIJN5LLiUWZ4jARH2L694Gmyug"
+    }
+  ],
+  "status": "OK"
+}
